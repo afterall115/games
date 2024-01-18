@@ -1,0 +1,12 @@
+//========================
+BeyondTheCaveの担当箇所
+//========================
+weaponのhookLance
+
+//=========================
+　　SpaghettiCardeの担当箇所
+//=========================
+PlayerScript.csのアニメーション以外全て
+MainGameScript.csの//ミヤベとコメントあるところ以外全て
+Gimmick.csのエネミー関連
+その他.csの全て
